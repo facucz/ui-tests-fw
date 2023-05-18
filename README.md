@@ -1,3 +1,5 @@
+[![WebdriverIO Tests](https://github.com/facucz/ui-tests-fw/actions/workflows/webdriverio.yml/badge.svg?branch=master)](https://github.com/facucz/ui-tests-fw/actions/workflows/webdriverio.yml)
+
 # Web UI Tests framework Repository
 
 This repository contains UI tests written in JavaSCript using WebDriverIO framework. The tests are designed to verify the functionality and behavior of your Web=UI application.
